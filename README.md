@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Preet Bhavsar!  
   
-![Smit Bhavsar](https://user-images.githubusercontent.com/70238118/119919420-6942ee80-bf38-11eb-98f6-a28303623136.png)
+
 
 
 <div align="center">
